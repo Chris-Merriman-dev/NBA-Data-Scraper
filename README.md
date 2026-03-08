@@ -1,4 +1,4 @@
-# NBA Data Project
+# NBA Data Scraper
 
 This project provides an automated pipeline for collecting and processing historical basketball statistics sourced from [Basketball-Reference](https://www.basketball-reference.com/).
 
